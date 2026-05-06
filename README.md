@@ -1,13 +1,13 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 
-**DATE:**
+**DATE:** **06-05-26**
 
-**NAME:**
+**NAME:** **RANJANA R**  
 
-**ROLL NO:**
+**ROLL NO:** **212224040270**
 
-**DEPARTMENT:**
+**DEPARTMENT:**  **CSE**
 
 ## Aim
 
@@ -126,6 +126,12 @@ With its power-efficient design, built-in LoRaWAN support, and flexible communic
 ## OUTPUT
 
 LED OFF:
+
+<img width="1031" height="474" alt="488415034-2bae4b82-e7f7-476d-be6c-92efe97e738b" src="https://github.com/user-attachments/assets/a775eaed-f48c-45b2-85e1-77845de546f3" />
+
+LED ON:
+
+<img width="1280" height="1280" alt="488415458-2a280e80-c896-45ca-981f-1eb557f93e9e" src="https://github.com/user-attachments/assets/43ffea9a-8c07-4bba-bbe8-7ff66b708a8f" />
 
 
 
